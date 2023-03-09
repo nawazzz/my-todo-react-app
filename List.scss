@@ -1,0 +1,17 @@
+.listParentContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 0 10px 0;
+    .checkbox{
+        margin-right: 10px;
+    }
+    .listElement{
+
+    }
+    .deleteButton{
+        margin-right: 13px;
+        cursor: pointer;
+    }
+}
